@@ -28,7 +28,7 @@
             "resim" => "3.jpg",
             "yayinTarihi" => "01.01.2023",
             "yorumSayisi" => "100",
-            "begeniSayisi" => "200"
+            "begeniSayisi" => "300"
         ),
     );
 
