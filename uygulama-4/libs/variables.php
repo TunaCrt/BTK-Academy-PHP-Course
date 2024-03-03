@@ -16,6 +16,8 @@ $sehirler = array(
     "34" => "İstanbul",
     "53" => "Rize",
     "54" => "Sakarya",
+    "52" => "Ordu",
+    "60" => "Tokat"
 );
 
 $hobiler = array(
