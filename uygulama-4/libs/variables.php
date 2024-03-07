@@ -19,7 +19,8 @@ $sehirler = array(
     "52" => "Ordu",
     "60" => "Tokat",
     "23" => "Elazığ",
-    "05" => "Amasya"
+    "05" => "Amasya",
+    "55" => "Samsun"
 );
 
 $hobiler = array(
