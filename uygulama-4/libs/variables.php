@@ -29,7 +29,8 @@ $hobiler = array(
     "3" => "Müzik",
     "4" => "Kitap",
     "5" => "Bisiklet",
-    "6" => "Kalimba"
+    "6" => "Kalimba",
+    "7" => "Yürüyüş"
 );
 
 $kurslar = array(
